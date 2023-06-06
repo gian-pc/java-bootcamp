@@ -1,0 +1,18 @@
+[
+  {
+    "category": "FrontEnd",
+    "description": "Preguntas relacionadas con el desarrollo web"
+  },
+  {
+    "category": "Backend",
+    "description": "Preguntas relacionadas con el diseño de base de datos y Apis"
+  },
+  {
+    "category": "Devops",
+    "description": "Preguntas relacionadas con infraestructura en la nube"
+  },
+  {
+    "category": "Ux/Ui",
+    "description": "Preguntas relacionadas con el diseño"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "category": "Backend",
+  "question": "¿Qué conocimeintos necesita un desarrollador backend?",
+  "options": ["Base de datos, git/gitHub, Java, Aws", "Html, Css, Figma"],
+  "answer": 0,
+  "explanation": "El desarrollador Backend debería tener conocimientos del paradigma de programación orientada a objetos POO"
+}
